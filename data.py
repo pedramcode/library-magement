@@ -1,7 +1,7 @@
 import pickle
 import os
 
-
+ 
 def load_from_path(path=None):
     if path == None:
         raise Exception("Pass the path to load data")
