@@ -4,7 +4,7 @@ import data
 import settings
 from models.book import Book
 
-
+ 
 DATA = data.load_from_path(settings.FILE_NAME)
 
 
